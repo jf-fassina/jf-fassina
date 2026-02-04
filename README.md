@@ -56,22 +56,9 @@
 <div>
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Win32](https://img.shields.io/badge/Win32-0078D6?logo=windows&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop-Applications-purple)
 ![Software Engineering](https://img.shields.io/badge/Software-Engineering-yellow)
 ![UI](https://img.shields.io/badge/UI%2FGUI-Design-orange)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jf-fassina&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jf-fassina&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
