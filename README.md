@@ -28,8 +28,8 @@
 ## 🌎 International Experience
 
 🇨🇦 Exchange Student — Toronto, Canada  
-  📚 International Language Academy of Canada (ILAC)  
-  🗣️ English Proficiency: **C1/Level 14**
+    📚 International Language Academy of Canada (ILAC)  
+    🗣️ English Proficiency: **C1/Level 14**
 
 ---
 
@@ -90,8 +90,8 @@
 ## 📌 Featured Interests
 
 ```txt
-🖥 Desktop Development
-⚙ Low Level Systems
+🖥  Desktop Development
+⚙  Low Level Systems
 🎮 Game Development Concepts
 🧩 GUI Architecture
 🚀 Performance Optimization
