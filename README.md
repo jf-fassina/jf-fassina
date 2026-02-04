@@ -27,9 +27,9 @@
 
 ## 🌎 International Experience
 
-🇨🇦  Exchange Student — Toronto, Canada  
-📚 International Language Academy of Canada (ILAC)  
-🗣️ English Proficiency: **C1/Level 14**
+🇨🇦 Exchange Student — Toronto, Canada  
+  📚 International Language Academy of Canada (ILAC)  
+  🗣️ English Proficiency: **C1/Level 14**
 
 ---
 
