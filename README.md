@@ -55,6 +55,7 @@
 
 <div>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop-Applications-purple)
 ![Software Engineering](https://img.shields.io/badge/Software-Engineering-yellow)
