@@ -8,8 +8,6 @@
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 </div>
 
----
-
 ## About Me
 
 IT Technician — **IFRS (Federal Institute of Rio Grande do Sul)**  
@@ -24,15 +22,11 @@ Passionate about:
 
 Currently **available for freelance work and collaborations**
 
----
-
 ## International Experience
 
 Exchange Student — Toronto, Canada  
      International Language Academy of Canada (ILAC)  
      English Proficiency: **C1/Level 14**
-
----
 
 ## Achievements
 
