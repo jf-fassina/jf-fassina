@@ -10,8 +10,8 @@
 
 ## About Me
 
-IT Technician — **IFRS (Federal Institute of Rio Grande do Sul)**  
-B.Sc. in Computer Science — **PUCRS**  
+IT Technician @ **IFRS (Federal Institute of Rio Grande do Sul)**  
+B.Sc. in Computer Engineering @ **PUCRS**  
 
 Passionate about:
 
