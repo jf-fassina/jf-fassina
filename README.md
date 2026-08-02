@@ -31,5 +31,4 @@ Exchange Student — Toronto, Canada
 ## Achievements
 
 Silver Medal — Brazilian Astronomy Olympiad (OBA)  
-Qualified — Brazilian Public Schools Physics Olympiad (OBFEP)  
 Teaching Scholarship Student — IFRS (2025)
