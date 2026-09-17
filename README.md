@@ -2,7 +2,7 @@
     
 # [João Fassina]
 
-{ C | C++ | Linux | NVIM | Java | SQL | Eletronics }
+{ C | C++ | Linux | NVIM | Java | SQL | Electronics }
 
 ***Currently available for work and collaborations***
 
